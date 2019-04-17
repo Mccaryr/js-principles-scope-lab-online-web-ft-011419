@@ -16,3 +16,4 @@ function overwriteBestCustomer() {
 function changeLeastFavoriteCustomer() {
   leastFavoriteCustomer = 'definitely bob'
 }
+console.log(leastFavoriteCustomer)
